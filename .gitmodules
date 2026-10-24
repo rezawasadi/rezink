@@ -1,0 +1,3 @@
+[submodule "demo/rocco-menu"]
+	path = demo/rocco-menu
+	url = https://github.com/rezawasadi/rocco-menu.git
